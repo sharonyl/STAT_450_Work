@@ -62,4 +62,4 @@ Where this course might add additional value beyond SCI would be in areas like:
     + improving on my technical writing skills and code documentation 
 
 ### *here's a powerpuff representation of me*
-![](/Users/smui-23035/STAT 450/wallpaper-powfactor.jpg)
+![](https://github.com/sharonyl/STAT_450_Work/blob/master/wallpaper-powfactor.jpg?raw=true)
